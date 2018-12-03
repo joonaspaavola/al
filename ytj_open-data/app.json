@@ -1,0 +1,27 @@
+{
+  "id": "fdf999b8-a211-4e50-880d-f92dfb1e2cd2",
+  "name": "YTJ - Open Data",
+  "publisher": "Joonas Paavola",
+  "brief": "",
+  "description": "Update company information from YTJ's database using a REST API.",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50105
+  },
+  "showMyCode": false,
+  "target": "Internal",
+  "features": [
+    "TranslationFile"
+  ]
+}

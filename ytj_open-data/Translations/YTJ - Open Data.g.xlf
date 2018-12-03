@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="YTJ - Open Data">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 3450446540 - Method 1145454458 - NamedType 1495243232" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Business Identity Code cannot be empty. Please, provide a value.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit YTJOpenDataMgmt - Method CheckBIC - NamedType EmptyBICMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3450446540 - Method 2501279253 - NamedType 1596122999" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Do you want to fetch Vendor Information from YTJ?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit YTJOpenDataMgmt - Method ConfirmRun - NamedType ConfirmLabelMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3450446540 - Method 1952941024 - NamedType 2871539205" size-unit="char" translate="yes" xml:space="preserve">
+          <source>http://avoindata.prh.fi/bis/v1/</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit YTJOpenDataMgmt - Method FetchData - NamedType URLTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3450446540 - Method 1952941024 - NamedType 1622895393" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection could not be established.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit YTJOpenDataMgmt - Method FetchData - NamedType ConnectionErrorMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3450446540 - Method 1952941024 - NamedType 2229306806" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Connection to the remote API was unsuccessful. Please, try again later.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit YTJOpenDataMgmt - Method FetchData - NamedType ErrorResponseMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1377639429 - Control 4151719129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Register Valid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YTJWebServiceExt - Control RegisterValid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1377639429 - Control 2733316495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Checked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YTJWebServiceExt - Control LastChecked - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1377639429 - Action 1728639507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Get Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension YTJWebServiceExt - Action GetYTJData - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2685713923 - Field 4151719129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>RegisterValid</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YTJWebServiceTblExt - Field RegisterValid - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2685713923 - Field 2733316495 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>LastChecked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension YTJWebServiceTblExt - Field LastChecked - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
