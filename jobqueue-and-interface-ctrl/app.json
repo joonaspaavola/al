@@ -1,0 +1,28 @@
+{
+  "id": "ad15d00c-a8d1-425c-8788-63875918cf01",
+  "name": "Job Queue and Interface Control",
+  "publisher": "Joonas Paavola",
+  "brief": "",
+  "description": "Dynamics 365 Business Central compatible extension for Job Queue and Interface Control. Can be used as an overview page from inside Business Central or be published as a WebService for third party monitoring solution to consume.",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50110,
+    "to": 50115
+  },
+  "showMyCode": false,
+  "target": "Internal",
+  "features": [
+    "TranslationFile"
+  ],
+  "runtime": "2.0"
+}

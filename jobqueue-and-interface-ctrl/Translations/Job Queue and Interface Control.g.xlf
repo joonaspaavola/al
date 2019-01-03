@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Job Queue and Interface Control">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 740323008 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Setup Header</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 1878130204 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Job Queue,Interface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 3374796909 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Modified</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field LastModified - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 652958716 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Modified By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field LastModifiedBy - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disabled,Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 740323008 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Setup Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2099650551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field InterfaceType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2099650551 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,Job Queue,Interface</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field InterfaceType - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2356893276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HeaderNo.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field HeaderNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 4270408107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field LineNo. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2437248454 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field JobID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 1005936613 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue Control Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field IsJobControlOn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 1313550852 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue In Process Control Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field IsInProcessControlOn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2181358511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Maximum Allowed In Process Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field MaxInProcessTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2768299297 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type to Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field ObjectTypeToRun - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2768299297 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>,,,Report,,Codeunit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field ObjectTypeToRun - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 611158286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID to Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field ObjectIDToRun - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ready,In Process,Error,On Hold,Finished</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 1056120404 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Earliest Start Date/Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field EarliestStartTimeDate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 291409893 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field TableID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 464084920 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Field</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field TableField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 338207526 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field TableFieldDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 1954605534 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Successful Run Control Active</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field LastSuccessTimeControlOn - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2886822498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Allowed Delay from Last Successful Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field MaxPastLastSuccessTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 2829125296 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check Job Queue Recurrence</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field CheckJobQueueRecurrence - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - Field 3977517892 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Table Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - Field TableDescription - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 558988519 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Invalid field number.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Setup Line - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Field 513339096 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source> ,OK,Error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Field Status - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Field 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Field Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4045103308 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Interface Ctrl Status - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4045103308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4006351219 - NamedType 1881095303" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface control is not enabled.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Interface Ctrl Status Update - NamedType Text001Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4006351219 - NamedType 1068754970" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The following Job Queues are in error state or have been In Process longer than is allowed: </source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Interface Ctrl Status Update - NamedType Text002Msg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 4006351219 - NamedType 2720473193" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control is enabled, no errors were encountered.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Interface Ctrl Status Update - NamedType Text003Msg</note>
+        </trans-unit>
+        <trans-unit id="Page 2088239847 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Job Queue List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl JQ Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2713614202 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface and Job Queue Control</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2713614202 - Action 1488834569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl List - Action SetEnabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2713614202 - Action 1571757286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Disabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl List - Action SetDisabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2713614202 - Action 2988918941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl List - Action ControlStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4092796003 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl IF Subform - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4092796003 - Control 291409893 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log table from which the interface status is monitored.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl IF Subform - Control TableID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4092796003 - Control 3977517892 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name of the selected interface log table.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl IF Subform - Control TableDescription - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4092796003 - Control 464084920 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Log table field that contains the information about the respective interface status.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl IF Subform - Control TableField - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3276030364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Setup Card</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Card - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3276030364 - Control 3276447467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Card - Control General Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3276030364 - Action 1488834569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Enabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Card - Action SetEnabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3276030364 - Action 1571757286 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set Disabled</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Card - Action SetDisabled - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3276030364 - Action 2988918941 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Interface Control Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Interface Ctrl Card - Action ControlStatus - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
